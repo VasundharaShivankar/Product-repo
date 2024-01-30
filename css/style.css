@@ -1,4 +1,13 @@
+.head{
+    background-color:rgb(244, 202, 140);
+    font-size: 50px; 
+    text-align: center; 
+    color:black
+}
 .main{
     width: 200px;
     border: 1px solid white;
+    
 }
+
+  
