@@ -5,9 +5,12 @@
     color:black
 }
 .main{
-    width: 200px;
-    border: 1px solid white;
-    
+    width: 280px;
+    border: 1px solid white; 
+}
+.main-img{
+    display: flex;
+    justify-content: space-around;
 }
 
   
